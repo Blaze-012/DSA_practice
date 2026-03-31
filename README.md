@@ -13,3 +13,6 @@ This repository contains Python solutions for selected problems from the Striver
 3. Check if the Array is Sorted
 4. Remove Duplicates from Sorted Array
 5. Left Rotate an Array by One Place
+6. Left Rotate an Array by D Places
+7. Move Zeroes to the End
+8. Linear Search
