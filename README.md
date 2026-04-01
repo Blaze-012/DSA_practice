@@ -16,3 +16,6 @@ This repository contains Python solutions for selected problems from the Striver
 6. Left Rotate an Array by D Places
 7. Move Zeroes to the End
 8. Linear Search
+9. Union of Two Sorted Arrays
+10. Find the Missing Number
+11. Maximum Consecutive Ones
