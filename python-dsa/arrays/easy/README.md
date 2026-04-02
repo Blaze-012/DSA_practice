@@ -15,3 +15,6 @@ This folder contains Python solutions for the first 5 easy array problems from t
 9. `09_union_of_two_sorted_arrays.py`
 10. `10_find_missing_number.py`
 11. `11_maximum_consecutive_ones.py`
+12. `12_single_number.py`
+13. `13_longest_subarray_sum_k.py`
+14. `14_two_sum.py`

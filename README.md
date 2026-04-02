@@ -19,3 +19,6 @@ This repository contains Python solutions for selected problems from the Striver
 9. Union of Two Sorted Arrays
 10. Find the Missing Number
 11. Maximum Consecutive Ones
+12. Find the Number That Appears Once
+13. Longest Subarray with Sum K
+14. Two Sum
