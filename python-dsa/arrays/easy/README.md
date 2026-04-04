@@ -17,4 +17,3 @@ This folder contains Python solutions for the first 5 easy array problems from t
 11. `11_maximum_consecutive_ones.py`
 12. `12_single_number.py`
 13. `13_longest_subarray_sum_k.py`
-14. `14_two_sum.py`

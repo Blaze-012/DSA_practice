@@ -6,7 +6,7 @@ This repository contains Python solutions for selected problems from the Striver
 
 - `python-dsa/arrays/easy/` - first 5 easy array problems
 
-## Problems Covered
+## Easy Array Problems Covered
 
 1. Largest Element in an Array
 2. Second Largest Element in an Array
@@ -21,4 +21,13 @@ This repository contains Python solutions for selected problems from the Striver
 11. Maximum Consecutive Ones
 12. Find the Number That Appears Once
 13. Longest Subarray with Sum K
-14. Two Sum
+
+## Medium Array Problems Covered
+
+1. Two Sum
+2. Sort an Array of 0s, 1s and 2s
+3. Majority Element
+4. Maximum Subarray Sum
+5. Best Time to Buy and Sell Stock
+6. Rearrange Array Elements by Sign
+7. Next Permutation
