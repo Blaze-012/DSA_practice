@@ -31,3 +31,9 @@ This repository contains Python solutions for selected problems from the Striver
 5. Best Time to Buy and Sell Stock
 6. Rearrange Array Elements by Sign
 7. Next Permutation
+8. Leaders in an Array
+9. Longest Consecutive Sequence
+10. Set Matrix Zeroes
+11. Rotate Matrix by 90 Degrees
+12. Spiral Traversal of Matrix
+13. Count Subarrays with Given Sum
