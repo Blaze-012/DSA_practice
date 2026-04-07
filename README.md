@@ -37,3 +37,6 @@ This repository contains Python solutions for selected problems from the Striver
 11. Rotate Matrix by 90 Degrees
 12. Spiral Traversal of Matrix
 13. Count Subarrays with Given Sum
+14. Pascal's Triangle
+15. Majority Element II
+16. 3 Sum
