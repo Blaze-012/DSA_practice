@@ -17,6 +17,3 @@ This folder contains Python solutions for medium array problems from the Striver
 11. `11_rotate_matrix_90_degrees.py`
 12. `12_spiral_traversal_matrix.py`
 13. `13_count_subarrays_with_given_sum.py`
-14. `14_pascals_triangle.py`
-15. `15_majority_element_ii.py`
-16. `16_three_sum.py`
