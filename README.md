@@ -43,3 +43,6 @@ This repository contains Python solutions for selected problems from the Striver
 1. Pascal's Triangle
 2. Majority Element II
 3. 3 Sum
+4. 4 Sum
+5. Largest Subarray with Sum 0
+6. Count Number of Subarrays with Given XOR K
