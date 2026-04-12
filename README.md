@@ -46,3 +46,6 @@ This repository contains Python solutions for selected problems from the Striver
 4. 4 Sum
 5. Largest Subarray with Sum 0
 6. Count Number of Subarrays with Given XOR K
+7. Merge Overlapping Intervals
+8. Merge Two Sorted Arrays Without Extra Space
+9. Find the Repeating and Missing Number
