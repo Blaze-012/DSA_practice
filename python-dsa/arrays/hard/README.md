@@ -13,3 +13,6 @@ This folder contains Python solutions for hard array problems from the Striver A
 7. `07_merge_overlapping_intervals.py`
 8. `08_merge_sorted_arrays_without_extra_space.py`
 9. `09_find_repeating_and_missing_number.py`
+10. `10_count_inversions.py`
+11. `11_reverse_pairs.py`
+12. `12_maximum_product_subarray.py`

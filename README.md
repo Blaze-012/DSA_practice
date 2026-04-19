@@ -4,7 +4,9 @@ This repository contains Python solutions for selected problems from the Striver
 
 ## Structure
 
-- `python-dsa/arrays/easy/` - first 5 easy array problems
+- `python-dsa/arrays/easy/` - easy array problems
+- `python-dsa/arrays/medium/` - medium array problems
+- `python-dsa/arrays/hard/` - hard array problems
 
 ## Easy Array Problems Covered
 
@@ -49,3 +51,6 @@ This repository contains Python solutions for selected problems from the Striver
 7. Merge Overlapping Intervals
 8. Merge Two Sorted Arrays Without Extra Space
 9. Find the Repeating and Missing Number
+10. Count Inversions
+11. Reverse Pairs
+12. Maximum Product Subarray
