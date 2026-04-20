@@ -7,6 +7,9 @@ This repository contains Python solutions for selected problems from the Striver
 - `python-dsa/arrays/easy/` - easy array problems
 - `python-dsa/arrays/medium/` - medium array problems
 - `python-dsa/arrays/hard/` - hard array problems
+- `python-dsa/binary-search/1d/` - binary search on 1D arrays
+- `python-dsa/binary-search/answers/` - binary search on answers
+- `python-dsa/binary-search/2d/` - binary search on 2D arrays
 
 ## Easy Array Problems Covered
 
@@ -54,3 +57,11 @@ This repository contains Python solutions for selected problems from the Striver
 10. Count Inversions
 11. Reverse Pairs
 12. Maximum Product Subarray
+
+## Binary Search 1D Problems Covered
+
+1. Binary Search to Find X in Sorted Array
+2. Lower Bound
+3. Upper Bound
+4. Search Insert Position
+5. Floor and Ceil in Sorted Array
