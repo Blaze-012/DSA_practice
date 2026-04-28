@@ -65,3 +65,6 @@ This repository contains Python solutions for selected problems from the Striver
 3. Upper Bound
 4. Search Insert Position
 5. Floor and Ceil in Sorted Array
+6. First and Last Occurrence of an Element
+7. Count Occurrences in Sorted Array
+8. Search in Rotated Sorted Array I
